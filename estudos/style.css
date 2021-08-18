@@ -1,0 +1,99 @@
+fieldset#campo {
+    width: 850px;
+    margin: auto;
+    height: 700px;
+    margin-top: 40px;
+    background-color:white;
+    border-radius: 30px;
+    box-shadow: 1px 5px 5px black;
+}
+body {
+    background-image: url(walpaper.jpg);
+    background-repeat:no-repeat;
+}
+legend#legenda {
+    text-decoration: none;
+    box-shadow: 20px black;
+    font-size: 80px;
+    margin: auto;
+    color: rgb(120, 120, 146)
+}
+h1 {
+    text-align: center;
+    font-size: 30px;
+    text-shadow: 1px 2px 3px  black;
+    overflow: hidden;
+}
+.email {
+    margin-left: 20px;
+    font-size: 20px;
+    color: rgb(64, 112, 114);
+    margin-left: 145px;
+}
+input {
+    text-align: center;
+    font-size: 20px;
+    border-radius: 20px;
+    height: 60px;
+    background-color: rgb(228, 254, 255);
+    border: hidden;
+}
+::placeholder {
+    text-indent: 20px;
+}
+.senha {
+    margin-left: 20px;
+    font-size: 20px;
+    color: rgb(64, 112, 114);
+    margin-left: 145px;
+}
+input#checkbox  {
+    width: 25px;
+    margin-left: 50px;
+}
+p#Clique {
+    font-size: 30px;
+    text-align: center;
+    background-color: rgb(0, 4, 233);
+    color: white;
+    border-radius: 200px;
+    align-content: center;
+    margin: 150px;
+    margin-top: 50px;
+    padding: 20px;
+}
+p#Clique:hover {
+    color: darkcyan;
+    background: darkkhaki;
+}
+p#aolado {
+    font-size: 30px;
+    position: absolute;
+    left: 545px;
+    top: 446px;
+}
+p#juntos {
+    position: absolute;
+    top: 660px;
+    left: 550px;
+    font-size: 20px;
+    display: inline-block;
+    
+}
+p#juntoss {
+    font-size: 20px;
+    position: absolute;
+    top: 660px;
+    left: 770;
+}
+p#juntos:hover {
+   color: black;
+}
+p#juntoss:hover {
+    color: black;
+}
+p#Clique:active {
+    color: lavenderblush;
+    font-size: 32px;
+}
+
